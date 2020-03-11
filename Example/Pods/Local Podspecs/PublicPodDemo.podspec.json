@@ -1,0 +1,22 @@
+{
+  "name": "PublicPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of PublicPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chayansystango/PublicPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chayansystango": "rajat.pagare.systango@gsquad.com"
+  },
+  "source": {
+    "git": "https://github.com/chayansystango/PublicPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PublicPodDemo/Classes/**/*"
+}
