@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'PublicPodDemo'
+  s.name             = 'TMExtensions'
   s.version          = '0.1.0'
   s.summary          = 'A short description of PublicPodDemo.'
 
