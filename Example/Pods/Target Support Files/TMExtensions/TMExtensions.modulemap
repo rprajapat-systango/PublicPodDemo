@@ -1,0 +1,6 @@
+framework module TMExtensions {
+  umbrella header "TMExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double PublicPodDemoVersionNumber;
-FOUNDATION_EXPORT const unsigned char PublicPodDemoVersionString[];
+FOUNDATION_EXPORT double TMExtensionsVersionNumber;
+FOUNDATION_EXPORT const unsigned char TMExtensionsVersionString[];
 

@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## PublicPodDemo
+## TMExtensions
 
 Copyright (c) 2020 chayansystango <rajat.pagare.systango@gsquad.com>
 

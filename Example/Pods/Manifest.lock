@@ -1,16 +1,16 @@
 PODS:
-  - PublicPodDemo (0.1.0)
+  - TMExtensions (0.1.0)
 
 DEPENDENCIES:
-  - PublicPodDemo (from `../`)
+  - TMExtensions (from `../`)
 
 EXTERNAL SOURCES:
-  PublicPodDemo:
+  TMExtensions:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PublicPodDemo: c4cd38aae1b2aa12bc81b9ac863f194a31fce8a3
+  TMExtensions: 1eca0f5bc0c75b1cf4a52877ad68ab86bb7c4b61
 
-PODFILE CHECKSUM: bea0726ceedc491212f6d2e7d077c14c7af4b9d8
+PODFILE CHECKSUM: 036ac100b98bf91b3c8064bc28303a417f39db13
 
 COCOAPODS: 1.8.4
